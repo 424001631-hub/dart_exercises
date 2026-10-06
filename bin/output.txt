@@ -1,0 +1,11 @@
+--- ORDER CHECKOUT RECEIPT ---
+Item Purchased: Wireless Gaming Headset
+Quantity: 2 @ PHP 1299.5 each
+Voucher Applied: true
+--------------------------------
+Subtotal: PHP 2599
+Final Total (After Discount): PHP 2349
+Monthly Installment (4 mos): PHP 587 (Extra cents: 1)
+Qualifies for Free Shipping: true
+High-Value Transaction Notice: false
+--------------------------------
